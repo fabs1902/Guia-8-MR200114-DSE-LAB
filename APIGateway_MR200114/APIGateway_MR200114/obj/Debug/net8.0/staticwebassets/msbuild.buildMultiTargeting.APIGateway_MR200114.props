@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIGateway_MR200114.props" />
+</Project>
